@@ -124,3 +124,28 @@ main section{
     border-radius: 5px;
     
 }
+/* resume-section er styles */
+.resume-container{
+    display: flex;
+    gap: 24px;
+}
+.section-title{
+    text-align: center;
+}
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+
+.experience-description,.experience-sub-title{
+    color: #757575;
+}
+.resume hr{
+    margin: 30px 5px;
+}
+.resume-download-cv{
+    margin-top: 50px;
+
+}
